@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicMimic", "DynamicMimic\DynamicMimic.csproj", "{5847F0FF-F35F-437A-94A0-0626A0A2E824}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicMimicTesting", "DynamicMimicTesting\DynamicMimicTesting.csproj", "{B8DEDB5C-E56A-4563-89D0-591A65BFDCB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5847F0FF-F35F-437A-94A0-0626A0A2E824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5847F0FF-F35F-437A-94A0-0626A0A2E824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5847F0FF-F35F-437A-94A0-0626A0A2E824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5847F0FF-F35F-437A-94A0-0626A0A2E824}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8DEDB5C-E56A-4563-89D0-591A65BFDCB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8DEDB5C-E56A-4563-89D0-591A65BFDCB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8DEDB5C-E56A-4563-89D0-591A65BFDCB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8DEDB5C-E56A-4563-89D0-591A65BFDCB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E319C1EF-9F50-43CC-9860-9774652301C2}
+	EndGlobalSection
+EndGlobal
